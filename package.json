@@ -1,14 +1,14 @@
 {
-  "name": "@danielnord/dnd-grid",
+  "name": "@danielnord/dnd-grid-with-azure-widget-movement",
   "version": "0.0.14",
   "description": "A vuejs grid with draggable and resizable boxes",
   "author": "Daniel Duton <daniel@duton.lu>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielnord/dnd-grid.git"
+    "url": "git+https://github.com/danielnord/dnd-grid-with-azure-widget-movement.git"
   },
-  "main": "dist/dnd-grid.js",
+  "main": "dist/dnd-grid-with-azure-widget-movement.js",
   "scripts": {
     "dist": "poi build ./src/index.js --dist ./dist/ --prod --library",
     "dist:demo": "poi build ./src/demo/index.js --dist ./demo/ --prod",

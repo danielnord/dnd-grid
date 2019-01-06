@@ -1,4 +1,4 @@
-# dnd-grid-extended
+# dnd-grid-with-azure-widget-movement
 
 > A vuejs grid with draggable and resizable boxes. This source is based on @dattn/dnd-grid. Thank you very much for all of your work @dattn.
 
